@@ -1,0 +1,119 @@
+incident_date,incident_time,incident_category,cta_sites,atm,restaurant,site_id,week_day,week_code,weekend,holiday,incident_time_1,time_category,time_code,avgtemp,maxtemp,totalsnow,sunhour,sunset,sunrise,moonrise,moonset,Temperature,weather_description,weather_code,Humidity,cloudcover,heatindex,hours_after_sunrise,hours_to_sunset,incident
+4/1/2020,9:51,Accident / Slip or Fall,Red Line Jackson Station,2,9,129,Wednesday,2,0,0,9,morning,5,43,46,0,11.6,19:17,6:32,11:45,2:28,41,cloudy,2,83,38,41,3.32,9.43,1
+4/1/2020,9:46,none,Blue Line Addison Station,0,0,12,Wednesday,2,0,0,9,morning,5,43,46,0,11.6,19:17,6:32,11:45,2:28,41,cloudy,2,83,38,41,3.32,9.43,0
+4/1/2020,11:00,none,Brown Line Southport Station,1,3,45,Wednesday,2,0,0,11,morning,5,43,46,0,11.6,19:17,6:32,11:45,2:28,43,cloudy,2,75,29,43,4.47,8.28,0
+4/2/2020,2:11,Disturbance / Drugs,Blue Line Kedzie-Homan Station,0,0,9,Thursday,3,0,0,2,late_night,1,46,50,0,11.6,19:18,6:30,12:47,3:21,43,cloudy,2,81,3,43,-4.32,17.12,1
+4/2/2020,12:30,Disturbance / Fighting,Green Line-West Laramie Station,1,0,75,Thursday,3,0,0,12,afternoon,6,46,50,0,11.6,19:18,6:30,12:47,3:21,48,cloudy,2,57,13,48,6,6.8,1
+4/2/2020,12:00,none,Brown/ Purple Line Chicago Station,1,5,47,Thursday,3,0,0,12,morning,5,46,50,0,11.6,19:18,6:30,12:47,3:21,48,cloudy,2,57,13,48,5.5,7.3,0
+4/3/2020,1:43,Disturbance / Drunkenness,Blue Line Cicero Station,1,0,16,Friday,1,0,0,1,late_night,1,52,57,0,9,19:19,6:29,13:57,4:08,46,cloudy,2,54,78,46,-4.77,17.6,1
+4/3/2020,1:59,Disturbance / Drunkenness,Red Line 69th Street Station,0,0,115,Friday,1,0,0,1,late_night,1,52,57,0,9,19:19,6:29,13:57,4:08,46,cloudy,2,54,78,46,-4.5,17.33,1
+4/3/2020,4:36,Disturbance / Drunkenness,RedLine Roosevelt Station,0,7,142,Friday,1,0,0,4,early_morning,3,52,57,0,9,19:19,6:29,13:57,4:08,46,Overcast,1,57,56,46,-1.88,14.72,1
+4/3/2020,13:00,none,Brown/ Purple Line Merchandise Mart Station,1,6,48,Friday,1,0,0,13,afternoon,6,52,57,0,9,19:19,6:29,13:57,4:08,54,cloudy,2,55,55,54,6.52,6.32,0
+4/4/2020,1:45,Unsecure / Door,Skokie Rail Yard,0,0,143,Saturday,4,1,0,1,late_night,1,43,45,0,9,19:20,6:27,15:11,4:50,50,Overcast,1,79,85,52,-4.7,17.58,1
+4/4/2020,14:00,none,Brown/ Purple Line Sedgwick Station,0,2,49,Saturday,4,1,0,14,afternoon,6,43,45,0,9,19:20,6:27,15:11,4:50,45,drizzle,5,68,59,45,7.55,5.33,0
+4/5/2020,16:17,Assault / Bodily Harm,Red Line 95th/Dan Ryan Station,1,2,2,Sunday,5,1,0,16,evening,4,43,46,0,11.6,19:21,6:25,16:27,5:26,45,cloudy,2,48,9,45,9.87,3.07,1
+4/5/2020,14:41,Emergency / Fatality on Premises,Red/Purple/Purple Express Lines Howard Station,0,7,141,Sunday,5,1,0,14,afternoon,6,43,46,0,11.6,19:21,6:25,16:27,5:26,45,cloudy,2,51,10,45,8.27,4.67,1
+4/5/2020,16:12,none,Blue Line Austin Station,0,0,13,Sunday,5,1,0,16,evening,4,43,46,0,11.6,19:21,6:25,16:27,5:26,45,cloudy,2,48,9,45,9.87,3.07,0
+4/5/2020,15:00,none,Brown/Purple Line Diversey Station,2,5,51,Sunday,5,1,0,15,afternoon,6,43,46,0,11.6,19:21,6:25,16:27,5:26,45,cloudy,2,48,11,45,8.58,4.35,0
+4/6/2020,11:07,General / Other,Blues Western (O'Hare) Station,2,15,35,Monday,6,0,0,11,morning,5,48,54,0,7.8,19:22,6:24,17:45,5:59,50,cloudy,2,65,58,50,4.72,8.25,1
+4/6/2020,4:59,Alarms / Other,Red/Purple/Brown Lines Belmont,3,11,139,Monday,6,0,0,4,early_morning,3,48,54,0,7.8,19:22,6:24,17:45,5:59,43,cloudy,2,63,16,43,-1.42,14.38,1
+4/6/2020,3:55,Disturbance / Fighting,Red/Purple/Brown Lines Belmont,3,11,139,Monday,6,0,0,3,late_night,1,48,54,0,7.8,19:22,6:24,17:45,5:59,43,cloudy,2,61,16,43,-2.48,15.45,1
+4/6/2020,16:00,none,Brown/Purple Line Wellington Station,1,1,52,Monday,6,0,0,16,afternoon,6,48,54,0,7.8,19:22,6:24,17:45,5:59,54,cloudy,2,73,90,54,9.6,3.37,0
+4/7/2020,2:56,Disturbance / Mischief (nuisance),Red Line Jackson Station,2,5,129,Tuesday,7,0,0,2,late_night,1,61,68,0,10.3,19:24,6:22,19:03,6:30,52,rain,5,98,75,52,-3.43,16.47,1
+4/7/2020,23:20,Access Control / Other,Red/Purple/Brown Lines Belmont,3,11,139,Tuesday,7,0,0,23,night,2,61,68,0,10.3,19:24,6:22,19:03,6:30,59,rain,5,86,76,59,16.97,-3.93,1
+4/7/2020,17:00,none,CTA Third Rail Training Class,0,0,55,Tuesday,7,0,0,17,evening,4,61,68,0,10.3,19:24,6:22,19:03,6:30,66,cloudy,2,72,58,66,10.63,2.4,0
+4/8/2020,4:34,Disturbance / Loitering,Blue Line Medical District/Damen (Park Forest) Station,4,20,10,Wednesday,2,0,0,4,early_morning,3,55,63,0,9.1,19:25,6:20,20:21,7:00,50,rain,5,93,78,50,-1.77,14.85,1
+4/8/2020,4:39,none,Brown Line Paulina Station,0,1,43,Wednesday,2,0,0,4,early_morning,3,55,63,0,9.1,19:25,6:20,20:21,7:00,50,rain,5,93,78,50,-1.77,14.85,0
+4/8/2020,18:00,none,Green Line-South 43rd Station,0,0,57,Wednesday,2,0,0,18,evening,4,55,63,0,9.1,19:25,6:20,20:21,7:00,61,Overcast,1,66,89,63,11.67,1.42,0
+4/9/2020,3:41,Alarms / Other,Blue Line Belmont Station,0,0,14,Thursday,3,0,0,3,late_night,1,43,46,0,7.8,19:26,6:19,21:39,7:33,46,rain,5,50,29,46,-2.63,15.75,1
+4/9/2020,1:05,Theft / Robbery,Red Line Jackson Station,2,5,129,Thursday,3,0,0,1,late_night,1,43,46,0,7.8,19:26,6:19,21:39,7:33,48,rain,5,57,59,50,-5.23,18.35,1
+4/9/2020,4:48,Assault / Weapons,Red/Purple/Brown Lines Belmont,3,11,139,Thursday,3,0,0,4,early_morning,3,43,46,0,7.8,19:26,6:19,21:39,7:33,45,rain,5,50,21,45,-1.52,14.63,1
+4/9/2020,0:18,General / Other,Blue Line Forest Park Station,0,0,20,Thursday,3,0,0,0,late_night,1,43,46,0,7.8,19:26,6:19,21:39,7:33,50,rain,5,61,74,52,-6.02,19.13,1
+4/9/2020,0:40,Disturbance / Other,RedLine Roosevelt Station,0,7,142,Thursday,3,0,0,0,late_night,1,43,46,0,7.8,19:26,6:19,21:39,7:33,50,rain,5,61,74,52,-5.65,18.77,1
+4/9/2020,19:00,none,Green Line-South 47th Station,4,0,58,Thursday,3,0,0,19,evening,4,43,46,0,7.8,19:26,6:19,21:39,7:33,43,rain,7,42,58,43,12.68,0.43,0
+4/10/2020,23:50,Disturbance / Loitering,Red Line Jackson Station,2,9,129,Friday,1,0,0,23,night,2,41,46,0,10.3,19:27,6:17,22:54,8:08,43,cloudy,2,56,84,43,17.55,-4.38,1
+4/10/2020,3:57,none,Blue Line Californa Station,1,1,15,Friday,1,0,0,3,late_night,1,41,46,0,10.3,19:27,6:17,22:54,8:08,37,snow,3,49,7,37,-2.45,15.62,0
+4/10/2020,20:00,none,Green Line-South 51st Station,2,2,59,Friday,1,0,0,20,evening,4,41,46,0,10.3,19:27,6:17,22:54,8:08,45,Overcast,1,51,76,45,13.72,-0.55,0
+4/11/2020,5:50,Assault / Weapons,Blue Line Rosemont Station,0,0,11,Saturday,4,1,0,5,early_morning,3,50,55,0,10.3,19:28,6:16,No moonrise,8:47,43,cloudy,2,58,76,43,-0.43,13.63,1
+4/11/2020,3:15,Disturbance / Drunkenness,Blue Line Cicero Station,1,0,16,Saturday,4,1,0,3,late_night,1,50,55,0,10.3,19:28,6:16,No moonrise,8:47,45,Overcast,1,57,63,45,-3.02,16.22,1
+4/11/2020,21:00,none,Green Line-South Ashland/63rd Station,1,1,60,Saturday,4,1,0,21,night,2,50,55,0,10.3,19:28,6:16,No moonrise,8:47,50,rain,7,73,100,50,14.73,-1.53,0
+4/12/2020,7:47,Maintenance / Other,West Shop,0,0,4,Sunday,5,1,1,7,early_morning,3,54,57,0,6.6,19:29,6:14,0:06,9:33,50,drizzle,4,83,100,50,1.55,11.7,1
+4/12/2020,7:54,Maintenance / Other,West Shop,0,0,4,Sunday,5,1,1,7,early_morning,3,54,57,0,6.6,19:29,6:14,0:06,9:33,50,drizzle,4,83,100,50,1.67,11.58,1
+4/12/2020,7:44,none,Blue Line Clinton Station,1,0,17,Sunday,5,1,1,7,early_morning,3,54,57,0,6.6,19:29,6:14,0:06,9:33,50,drizzle,4,83,100,50,1.67,11.58,0
+4/12/2020,22:00,none,Green Line-South Cermak-McCormick Place Station,0,0,61,Sunday,5,1,1,22,night,2,54,57,0,6.6,19:29,6:14,0:06,9:33,54,drizzle,5,88,100,54,15.77,-2.52,0
+4/12/2020,17:00,none,Pink Line Polk Station,2,3,95,Sunday,5,1,1,17,evening,4,54,57,0,6.6,19:29,6:14,0:06,9:33,57,drizzle,5,81,100,57,10.77,2.48,0
+4/13/2020,6:00,none,61st Street Lower Yard,0,0,5,Monday,6,0,0,6,early_morning,3,39,41,0,10.3,19:30,6:12,1:11,10:24,39,drizzle,5,73,95,39,-0.2,13.5,0
+4/13/2020,23:00,none,Green Line-South Cottage Grove Station,3,1,62,Monday,6,0,0,23,night,2,39,41,0,10.3,19:30,6:12,1:11,10:24,37,cloudy,2,41,25,37,16.8,-3.5,0
+4/13/2020,18:00,none,Pink Link 54th/Cermack Station,4,1,98,Monday,6,0,0,18,evening,4,39,41,0,10.3,19:30,6:12,1:11,10:24,41,cloudy,2,38,16,41,11.8,1.5,0
+4/14/2020,12:30,Access Control / Other,Skokie Rail Yard,0,0,143,Tuesday,7,0,0,12,afternoon,6,37,41,0,9.1,19:31,6:11,2:07,11:21,37,cloudy,2,36,85,37,6.32,7.02,1
+4/14/2020,11:58,Disturbance / Other,Blue Line Montrose Station,0,0,27,Tuesday,7,0,0,11,morning,5,37,41,0,9.1,19:31,6:11,2:07,11:21,37,cloudy,2,37,69,37,5.78,7.55,1
+4/14/2020,13:30,Disturbance / Drugs,Green Line-West Conservatory-Central Park Station,1,0,72,Tuesday,7,0,0,13,afternoon,6,37,41,0,9.1,19:31,6:11,2:07,11:21,39,cloudy,2,36,90,39,7.32,6.02,1
+4/14/2020,6:42,Disturbance / Loitering,Pink Line Zone California Station,0,3,97,Tuesday,7,0,0,6,early_morning,3,37,41,0,9.1,19:31,6:11,2:07,11:21,32,cloudy,2,49,7,32,0.52,12.82,1
+4/14/2020,23:05,Disturbance / Fighting,Red Line Jackson Station,2,9,129,Tuesday,7,0,0,23,night,2,37,41,0,9.1,19:31,6:11,2:07,11:21,37,cloudy,2,37,54,37,16.9,-3.57,1
+4/14/2020,0:00,none,Green Line-South Garfield Station,1,0,63,Tuesday,7,0,0,0,night,2,37,41,0,9.1,19:31,6:11,2:07,11:21,37,cloudy,2,43,27,37,-6.18,19.52,0
+4/15/2020,2:48,Assault / Bodily Harm,Red Line Jackson Station,2,5,129,Wednesday,2,0,0,2,late_night,1,34,39,0.43,9.1,19:32,6:09,2:54,12:21,34,Overcast,1,47,84,34,-3.35,16.73,1
+4/15/2020,17:15,General / Other,South Shop Bravo-Bone Yard,0,0,145,Wednesday,2,0,0,17,evening,4,34,39,0.43,9.1,19:32,6:09,2:54,12:21,39,cloudy,2,37,23,39,11.1,2.28,1
+4/15/2020,1:34,General / Other,Red Line 63rd Street Station,0,0,114,Wednesday,2,0,0,1,late_night,1,34,39,0.43,9.1,19:32,6:09,2:54,12:21,36,cloudy,2,43,77,36,-4.58,17.97,1
+4/15/2020,0:00,Disturbance / Noise,Red Line Jackson Station,2,9,129,Wednesday,2,0,0,0,late_night,1,34,39,0.43,9.1,19:32,6:09,2:54,12:21,36,cloudy,2,38,71,36,-6.15,19.53,1
+4/15/2020,1:00,none,Green Line-South Indiana Station,1,0,65,Wednesday,2,0,0,1,late_night,1,34,39,0.43,9.1,19:32,6:09,2:54,12:21,36,cloudy,2,43,77,36,-5.15,18.53,0
+4/16/2020,6:23,Theft / Robbery,Red Line 47th Street Station,0,0,113,Thursday,3,0,0,6,early_morning,3,39,45,0,10.4,19:34,6:08,3:34,13:23,32,cloudy,2,48,3,32,0.25,13.18,1
+4/16/2020,6:25,none,Blue Line Cumberland Station,0,0,18,Thursday,3,0,0,6,early_morning,3,39,45,0,10.4,19:34,6:08,3:34,13:23,32,cloudy,2,48,3,32,0.25,13.18,0
+4/16/2020,2:00,none,Green Line-South King DriveStation,1,0,66,Thursday,3,0,0,2,late_night,1,39,45,0,10.4,19:34,6:08,3:34,13:23,34,cloudy,2,41,16,34,-4.13,17.57,0
+4/17/2020,1:39,Disturbance / Other,Blue Line Washington Station,0,0,33,Friday,1,0,0,1,late_night,1,36,37,4.33,6.6,19:35,6:06,4:07,14:23,39,cloudy,2,55,94,39,-4.45,17.93,1
+4/17/2020,8:00,"Theft / Under $5,000",Pink Line Pulaski Station,0,0,96,Friday,1,0,0,8,morning,5,36,37,4.33,6.6,19:35,6:06,4:07,14:23,34,snow,3,96,100,34,1.9,11.58,1
+4/17/2020,3:00,none,Green Line-West Ashland Station,1,1,67,Friday,1,0,0,3,late_night,1,36,37,4.33,6.6,19:35,6:06,4:07,14:23,36,sleet,19,75,100,36,-3.1,16.58,0
+4/18/2020,0:33,Disturbance / Mischief (nuisance),Blue Line Kedzie-Homan Station,0,0,9,Saturday,4,1,0,0,late_night,1,45,54,0,11.6,19:36,6:05,4:35,15:24,32,cloudy,2,81,16,34,-5.53,19.05,1
+4/18/2020,4:30,Disturbance / Suspicious Person,Clark/Lake Station (Brown Pink Orange Purple & Green),2,2,53,Saturday,4,1,0,4,early_morning,3,45,54,0,11.6,19:36,6:05,4:35,15:24,36,cloudy,2,83,16,36,-1.58,15.1,1
+4/18/2020,4:32,none,Brown Line Kimball Station,2,3,41,Saturday,4,1,0,4,early_morning,3,45,54,0,11.6,19:36,6:05,4:35,15:24,36,cloudy,2,83,16,36,-1.58,15.1,0
+4/18/2020,4:00,none,Green Line-West Austin Station,0,1,68,Saturday,4,1,0,4,late_night,1,45,54,0,11.6,19:36,6:05,4:35,15:24,36,cloudy,2,83,16,36,-2.08,15.6,0
+4/19/2020,5:10,Disturbance / Drunkenness,Red Line Lawrence Station,0,1,131,Sunday,5,1,0,5,early_morning,3,48,52,0,9.1,19:37,6:03,5:00,16:23,46,Overcast,1,70,92,46,-0.88,14.45,1
+4/19/2020,5:18,none,Brown Line Montrose Station,3,6,42,Sunday,5,1,0,5,early_morning,3,48,52,0,9.1,19:37,6:03,5:00,16:23,46,Overcast,1,70,92,46,-0.88,14.45,0
+4/19/2020,5:00,none,Green Line-West California Station,1,0,69,Sunday,5,1,0,5,early_morning,3,48,52,0,9.1,19:37,6:03,5:00,16:23,46,Overcast,1,70,92,46,-1.05,14.62,0
+4/20/2020,7:00,none,Brown Line Addison Station,3,2,36,Monday,6,0,0,7,early_morning,3,50,55,0,10.4,19:38,6:02,5:24,17:22,43,cloudy,2,57,7,43,0.97,12.63,0
+4/20/2020,6:00,none,Green Line-West Oak Park Station,1,0,76,Monday,6,0,0,6,early_morning,3,50,55,0,10.4,19:38,6:02,5:24,17:22,43,cloudy,2,58,8,43,-0.03,13.63,0
+4/21/2020,1:04,Emergency / Medical,Clark/Lake Station (Brown Pink Orange Purple & Green),2,2,53,Tuesday,7,0,0,1,late_night,1,41,46,0,13.4,19:39,6:00,5:47,18:21,46,rain,5,57,63,46,-4.93,18.58,1
+4/21/2020,1:07,Emergency / Medical,Clark/Lake Station (Brown Pink Orange Purple & Green),2,2,53,Tuesday,7,0,0,1,late_night,1,41,46,0,13.4,19:39,6:00,5:47,18:21,46,rain,5,57,63,46,-4.88,18.53,1
+4/21/2020,3:16,Assault / Weapons,Blue Line Cicero Station,1,0,16,Tuesday,7,0,0,3,late_night,1,41,46,0,13.4,19:39,6:00,5:47,18:21,41,rain,5,48,25,41,-2.73,16.38,1
+4/21/2020,6:15,"Theft / Under $5,000",Blue Line Montrose Station,0,0,27,Tuesday,7,0,0,6,early_morning,3,41,46,0,13.4,19:39,6:00,5:47,18:21,37,Sunny,6,38,0,37,0.25,13.4,1
+4/21/2020,7:00,none,Green Line-West Pulaski Station,1,2,77,Tuesday,7,0,0,7,early_morning,3,41,46,0,13.4,19:39,6:00,5:47,18:21,37,Sunny,14,37,0,37,1,12.65,0
+4/22/2020,9:19,Accident / Property Dage,Skokie Rail Yard,0,0,143,Wednesday,2,0,0,9,morning,5,45,52,0,8.6,19:40,5:59,6:09,19:20,41,rain,5,72,84,41,3.33,10.35,1
+4/22/2020,13:09,Disturbance / Liquor Offence,Pink/Green Line Morgan Station,0,6,102,Wednesday,2,0,0,13,afternoon,6,45,52,0,8.6,19:40,5:59,6:09,19:20,48,rain,5,64,90,48,7.17,6.52,1
+4/22/2020,4:03,General / Other,Red Line North/Clybourn Station,0,1,135,Wednesday,2,0,0,4,early_morning,3,45,52,0,8.6,19:40,5:59,6:09,19:20,41,cloudy,2,60,87,41,-1.93,15.62,1
+4/22/2020,12:41,Access Control / Service Requested,RedLine Roosevelt Station,0,7,142,Wednesday,2,0,0,12,afternoon,6,45,52,0,8.6,19:40,5:59,6:09,19:20,46,rain,5,63,89,46,6.7,6.98,1
+4/22/2020,8:00,none,Green Line-West Ridgeland Station,0,0,78,Wednesday,2,0,0,8,early_morning,3,45,52,0,8.6,19:40,5:59,6:09,19:20,39,rain,7,71,87,39,2.02,11.67,0
+4/23/2020,8:00,none,Brown Line Damen Station,2,2,37,Thursday,3,0,0,8,early_morning,3,52,54,0,8.7,19:41,5:57,6:33,20:20,50,drizzle,5,91,84,50,2.05,11.68,0
+4/23/2020,9:00,none,"Harold Washington Library-State/Van Buren (Brown, Pink, Orange & Purple)",0,2,79,Thursday,3,0,0,9,morning,5,52,54,0,8.7,19:41,5:57,6:33,20:20,52,drizzle,5,89,90,52,3.05,10.68,0
+4/24/2020,11:24,Motor Vehicle / Other,63rd Street Lower Rail Yard,0,0,6,Friday,1,0,0,11,morning,5,45,45,0,9.8,19:42,5:56,7:00,21:22,45,Overcast,1,83,92,45,5.47,8.3,1
+4/24/2020,2:33,Disturbance / Loitering,Clark/Lake Station (Brown Pink Orange Purple & Green),2,2,53,Friday,1,0,0,2,late_night,1,45,45,0,9.8,19:42,5:56,7:00,21:22,43,Overcast,1,88,94,43,-3.38,17.15,1
+4/24/2020,6:41,,Blue Line Rosemont Station,0,0,11,Friday,1,0,0,6,early_morning,3,45,45,0,9.8,19:42,5:56,7:00,21:22,43,cloudy,2,89,93,43,0.75,13.02,1
+4/24/2020,6:10,none,Brown Line Kedzie Station,0,4,40,Friday,1,0,0,6,early_morning,3,45,45,0,9.8,19:42,5:56,7:00,21:22,43,cloudy,2,89,93,43,0.32,13.45,0
+4/24/2020,10:00,none,"LaSalle/Van Buren (Brown,Pink,Orange & Purple)",1,4,80,Friday,1,0,0,10,morning,5,45,45,0,9.8,19:42,5:56,7:00,21:22,45,Overcast,1,84,95,45,4.07,9.7,0
+4/25/2020,9:00,none,Brown Line Francisco Station,0,2,38,Saturday,4,1,0,9,morning,5,45,45,0,8.7,19:43,5:54,7:31,22:24,45,rain,7,90,100,45,3.1,10.72,0
+4/25/2020,11:00,none,Orange Line Kedzie Station,0,0,84,Saturday,4,1,0,11,morning,5,45,45,0,8.7,19:43,5:54,7:31,22:24,45,rain,7,90,100,45,5.1,8.72,0
+4/26/2020,4:35,Disturbance / Vandalism,Orange Line Midway Station,0,0,85,Sunday,5,1,0,4,early_morning,3,48,50,0,12.2,19:45,5:53,8:06,23:26,45,Overcast,1,67,89,45,-1.3,15.17,1
+4/26/2020,4:37,none,Brown Line Rockwell Station,1,2,44,Sunday,5,1,0,4,early_morning,3,48,50,0,12.2,19:45,5:53,8:06,23:26,45,Overcast,1,67,89,45,-1.3,15.17,0
+4/26/2020,12:00,none,Orange Line Western Station,1,0,87,Sunday,5,1,0,12,morning,5,48,50,0,12.2,19:45,5:53,8:06,23:26,48,Overcast,1,60,41,48,6.12,7.75,0
+4/27/2020,23:18,Tresspass / Caution Issued,Clark/Lake Station (Brown Pink Orange Purple & Green),2,2,53,Monday,6,0,0,23,night,2,54,61,0,12.2,19:46,5:52,8:48,No moonset,50,rain,5,88,93,54,17.43,-3.53,1
+4/27/2020,23:27,Disturbance / Other,Clark/Lake Station (Brown Pink Orange Purple & Green),2,2,53,Monday,6,0,0,23,night,2,54,61,0,12.2,19:46,5:52,8:48,No moonset,50,rain,5,88,93,54,17.58,-3.68,1
+4/27/2020,2:30,Assault / Weapons,Blue Line Jefferson Park Station,0,0,25,Monday,6,0,0,2,late_night,1,54,61,0,12.2,19:46,5:52,8:48,No moonset,46,cloudy,2,58,10,46,-3.37,17.27,1
+4/27/2020,22:55,Disturbance / Loitering,Blue Line Pulaski Station,0,0,30,Monday,6,0,0,22,night,2,54,61,0,12.2,19:46,5:52,8:48,No moonset,50,rain,5,86,96,54,17.05,-3.15,1
+4/27/2020,3:20,Disturbance / Loitering,Pink Line 54th/Cermak Station,4,0,88,Monday,6,0,0,3,late_night,1,54,61,0,12.2,19:46,5:52,8:48,No moonset,46,cloudy,2,57,13,46,-2.53,16.43,1
+4/27/2020,3:44,Theft / Attempted,Red Line 95th/Dan Ryan Station,1,2,2,Monday,6,0,0,3,late_night,1,54,61,0,12.2,19:46,5:52,8:48,No moonset,46,cloudy,2,57,13,46,-2.13,16.03,1
+4/27/2020,23:00,Disturbance / Loitering,Red Line Loyola Station,3,3,132,Monday,6,0,0,23,night,2,54,61,0,12.2,19:46,5:52,8:48,No moonset,50,rain,5,88,93,54,17.13,-3.23,1
+4/27/2020,13:00,none,Pink Line 18th Street Staion,1,4,89,Monday,6,0,0,13,afternoon,6,54,61,0,12.2,19:46,5:52,8:48,No moonset,57,cloudy,2,50,55,57,7.13,6.77,0
+4/28/2020,4:51,Emergency / Other,Blue Line Logan Square Station,1,4,26,Tuesday,7,0,0,4,early_morning,3,59,66,0,8.7,19:47,5:50,9:39,0:24,52,rain,5,97,96,52,-0.98,14.93,1
+4/28/2020,10:02,Assault / Bodily Harm,Blue Line Forest Park Station,0,0,20,Tuesday,7,0,0,10,morning,5,59,66,0,8.7,19:47,5:50,9:39,0:24,55,Fog,10,87,86,55,4.2,9.75,1
+4/28/2020,3:10,Disturbance / Fighting,Red Line 63rd Street Station,0,0,114,Tuesday,7,0,0,3,late_night,1,59,66,0,8.7,19:47,5:50,9:39,0:24,52,rain,5,96,95,52,-2.67,16.62,1
+4/28/2020,3:10,,Red Line 63rd Street Station,0,0,114,Tuesday,7,0,0,3,late_night,1,59,66,0,8.7,19:47,5:50,9:39,0:24,52,rain,5,96,95,52,-2.67,16.62,1
+4/28/2020,7:35,Disturbance / Threats,Red Line Cermak-Chinatown,0,0,122,Tuesday,7,0,0,7,early_morning,3,59,66,0,8.7,19:47,5:50,9:39,0:24,52,Fog,10,96,98,52,1.75,12.2,1
+4/28/2020,3:24,Disturbance / Noise,Red Line Sox-35th Station,0,0,3,Tuesday,7,0,0,3,late_night,1,59,66,0,8.7,19:47,5:50,9:39,0:24,52,rain,5,96,95,52,-2.43,16.38,1
+4/28/2020,14:00,none,Pink Line Central Park Station,0,0,90,Tuesday,7,0,0,14,afternoon,6,59,66,0,8.7,19:47,5:50,9:39,0:24,63,cloudy,2,73,82,63,8.17,5.78,0
+4/29/2020,7:08,Disturbance / Loitering,Red Line Monroe Station,5,5,133,Wednesday,2,0,0,7,early_morning,3,52,55,0,8.7,19:48,5:49,10:36,1:18,55,rain,5,92,100,55,1.32,12.67,1
+4/29/2020,7:43,Disturbance / Loitering,Blue Line Forest Park Station,0,0,20,Wednesday,2,0,0,7,early_morning,3,52,55,0,8.7,19:48,5:49,10:36,1:18,55,rain,5,92,100,55,1.9,12.08,1
+4/29/2020,2:21,Disturbance / Loitering,Pink Line 54th/Cermak Station,4,0,88,Wednesday,2,0,0,2,late_night,1,52,55,0,8.7,19:48,5:49,10:36,1:18,57,rain,5,90,91,57,-3.47,17.45,1
+4/29/2020,0:08,Disturbance / Drugs,Pink Line Zone California Station,0,3,97,Wednesday,2,0,0,0,late_night,1,52,55,0,8.7,19:48,5:49,10:36,1:18,59,rain,5,89,81,59,-5.68,19.67,1
+4/29/2020,6:43,Assault / Bodily Harm,Red Line North/Clybourn Station,0,1,135,Wednesday,2,0,0,6,early_morning,3,52,55,0,8.7,19:48,5:49,10:36,1:18,55,rain,5,94,100,55,0.9,13.08,1
+4/29/2020,6:46,Assault / Bodily Harm,Red Line North/Clybourn Station,0,1,135,Wednesday,2,0,0,6,early_morning,3,52,55,0,8.7,19:48,5:49,10:36,1:18,55,rain,5,94,100,55,0.95,13.03,1
+4/29/2020,15:00,none,Pink Line Cicero Station,2,0,91,Wednesday,2,0,0,15,afternoon,6,52,55,0,8.7,19:48,5:49,10:36,1:18,48,rain,7,87,100,48,9.18,4.8,0
+4/30/2020,10:00,none,Brown Line Irving Park Station,1,3,39,Thursday,3,0,0,10,morning,5,46,50,0,8.8,19:49,5:48,11:42,2:06,46,rain,7,81,100,46,4.2,9.82,0
+4/30/2020,16:00,none,Pink Line Damen Station,1,4,92,Thursday,3,0,0,16,afternoon,6,46,50,0,8.8,19:49,5:48,11:42,2:06,50,drizzle,5,69,91,50,10.2,3.82,0
